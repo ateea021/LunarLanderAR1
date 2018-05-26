@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AltitudeDisplay
+comment0.text=\n\ This\ class\ will\ dispalay\ the\ altitude\ values\n\ @Author\ Ateea\ Riaz\n
+comment1.params=
+comment1.target=AltitudeDisplay()
+comment1.text=\n\ constuctor\ for\ AltitudeDisplay\ class\n
+comment2.params=alt
+comment2.target=void\ setAltitude(float)
+comment2.text=\n\ set\ values\ for\ altitude\n\ Update\ display\ with\ altitue\ value\n\ @param\ alt\ value\ of\ altitue\n
+numComments=3

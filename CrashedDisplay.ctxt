@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CrashedDisplay
+comment0.text=\n\ This\ class\ will\ dispalay\ the\ crash\ status\ \n\ @Author\ Ateea\ Riaz\n
+comment1.params=
+comment1.target=CrashedDisplay()
+comment2.params=
+comment2.target=void\ on()
+comment2.text=\n\ set\ status\ for\ crashed\ to\ red\n\ Update\ display\ with\ icon\n
+comment3.params=
+comment3.target=void\ off()
+comment3.text=\n\ set\ status\ for\ crashed\ to\ grey\n\ Update\ display\ with\ icon\n
+numComments=4

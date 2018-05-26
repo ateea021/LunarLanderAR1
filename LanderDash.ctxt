@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LanderDash
+comment0.text=\n\ This\ class\ creates\ JFrame\ window\ to\ display\ and\ update\ status\ and\ value\ for\ lander\ game\ \n\ @Author\ Ateea\ Riaz\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=ip\ port
+comment3.target=LanderDash(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ run()
+comment4.text=\n\ function\ to\ run\ and\ create\ the\ components\ in\ JFrame\n
+numComments=5

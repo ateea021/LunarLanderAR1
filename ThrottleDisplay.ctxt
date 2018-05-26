@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ThrottleDisplay
+comment0.text=\n\ this\ class\ will\ dispalay\ the\ values\ of\ throttle\ \n\ @Author\ Ateea\ Riaz\n
+comment1.params=
+comment1.target=ThrottleDisplay()
+comment1.text=\n\ The\ Constructor\ for\ ThrottleDisplay\ class\n
+comment2.params=t
+comment2.target=void\ setThrottle(float)
+comment2.text=\n\ set\ the\ value\ of\ throttle\n\ Update\ display\ with\ throttle\ value\n\ @Param\ t\ throttle\ precentage\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LowFuel
+comment0.text=\n\ this\ class\ will\ dispalay\ the\ status\ of\ low\ fuel\n\ @Author\ Ateea\ Riaz\n
+comment1.params=
+comment1.target=LowFuel()
+comment1.text=\n\ the\ constructor\ for\ LowFuel\ class\n
+comment2.params=
+comment2.target=void\ on()
+comment2.text=\n\ set\ status\ for\ fuel\ to\ orange\n\ Update\ display\ with\ icon\n
+comment3.params=
+comment3.target=void\ off()
+comment3.text=\n\ set\ status\ for\ fuel\ to\ grey\n\ Update\ display\ with\ icon\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FlyingDisplay
+comment0.text=\n\ This\ class\ will\ dispalay\ the\ flying\ status\ \n\ @Author\ Ateea\ Riaz\n
+comment1.params=
+comment1.target=FlyingDisplay()
+comment1.text=\n\ Constructor\ for\ FlyingDisplay\ class\n
+comment2.params=
+comment2.target=void\ on()
+comment2.text=\n\ set\ status\ for\ flying\ to\ grey\ icon\n\ Update\ display\ with\ icon\n
+comment3.params=
+comment3.target=void\ off()
+comment3.text=\n\ set\ status\ for\ flying\ to\ green\ icon\n\ Update\ display\ with\ icon\n
+numComments=4

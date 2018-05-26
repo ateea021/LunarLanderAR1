@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DatagramPanel
+comment0.text=\n\ class\ below\ is\ a\ place\ holder\ for\ ip-address\ and\ port\ number\ for\ internet\ addressing\n\ @Author\ Ateea\ Riaz\n
+comment1.params=
+comment1.target=DatagramPanel()
+comment1.text=\n\ constructor\ for\ DatagramPanel\ class\n\ create\ component\ for\ ip\ address\ and\ port\ number\n
+comment2.params=where
+comment2.target=void\ setAddress(java.net.InetSocketAddress)
+comment2.text=\n\ set\ the\ value\ for\ ip\ address\ and\ get\ the\ port\ number\n\ @param\ where\ ip\ address\ and\ port\n
+numComments=3

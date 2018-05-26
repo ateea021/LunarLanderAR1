@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OrientationDisplay
+comment0.text=\n\ this\ class\ will\ dispalay\ the\ values\ of\ orientation\ \n\ @Author\ Ateea\ Riaz\n
+comment1.params=
+comment1.target=OrientationDisplay()
+comment2.params=vX
+comment2.target=void\ setVX(int)
+comment2.text=\n\ set\ the\ value\ of\ vertical\ velocity\n\ Update\ display\ with\ new\ velocity\ value\n\ @param\ vY\ horizontal\ velocity\ \n
+comment3.params=vY
+comment3.target=void\ setVY(int)
+comment3.text=\n\ set\ the\ value\ of\ vertical\ velocity\n\ Update\ display\ with\ new\ velocity\ value\n\ @param\ vY\ vertical\ velocity\ \n
+numComments=4
